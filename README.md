@@ -1,5 +1,5 @@
 # SOLID-Python
-SOLID Principle in Python
+SOLID Principles in Python
 
 You can find blogs & videos on Python/Javascript here:
 
