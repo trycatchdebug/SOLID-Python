@@ -1,7 +1,7 @@
 # SOLID-Python
 SOLID Principles in Python
 
-You can find blogs & videos on Python/Javascript here:
+Check out blogs & videos on Python/Javascript here:
 
 https://medium.com/@trycatchdebug
 
